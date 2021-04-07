@@ -2,7 +2,7 @@
 
 - ✨ Organizations 
   - 관광지 방문 인증 웹앱 프로젝트 : https://github.com/landmark-v2
-  - 감정보관소 (감정 일기장) 프로젝트 : https://github.com/Emotion-Archive
+  - 감정보관소 (감정 일기장) 안드로이드 앱 프로젝트 : https://github.com/Emotion-Archive
   - 다마고치 작물키우기 웹앱 프로젝트 : https://github.com/new-farm
 
 <!---
